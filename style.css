@@ -1,0 +1,33 @@
+.h1{
+    color: floralwhite;
+    text-align: center;
+    background-color: rgb(38, 38, 7);
+    
+}
+.mycontainer{
+    display: flex;
+    justify-content: space-between;
+    border: radius 20px; ;
+    }
+.pip{
+    color: floralwhite;
+    text-align: center;
+    background-color: rgb(197, 243, 13);
+}
+
+
+
+ 
+button{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none ;
+    font-size: 20px ;
+}
+
+
+
+
+
+
